@@ -15,12 +15,6 @@ Easily mark tasks as complete and stay motivated throughout the day with a clean
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots to the `assets/screenshots/` folder if available_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
