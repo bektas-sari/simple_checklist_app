@@ -1,6 +1,7 @@
 # ✅ Simple Checklist App
 
-A lightweight and colorful Flutter app that helps you organize your daily tasks with checkboxes and progress tracking. Easily mark tasks as complete and stay motivated throughout the day with a clean, pastel-themed interface.
+A lightweight and colorful Flutter app that helps you organize your daily tasks with checkboxes and progress tracking. 
+Easily mark tasks as complete and stay motivated throughout the day with a clean, pastel-themed interface.
 
 ---
 
