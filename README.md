@@ -30,7 +30,7 @@ Easily mark tasks as complete and stay motivated throughout the day with a clean
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/simple_checklist_app.git
+git clone https://github.com/bektas-sari/simple_checklist_app.git
 cd simple_checklist_app
 ```
 
